@@ -1,0 +1,16 @@
+review_id,review_text,rating
+1,"This product exceeded my expectations. Great value for money!",5
+2,"Disappointed with the quality. Not worth the price.",2
+3,"Average product, nothing special but does the job.",3
+4,"Absolutely love it! Would highly recommend to everyone.",5
+5,"Terrible customer service and the product arrived damaged.",1
+6,"Good product overall, but could use some improvements.",4
+7,"Not satisfied with the purchase. Wouldn't buy again.",2
+8,"Amazing quality and fast delivery. Very happy customer!",5
+9,"The product is okay, but I expected more features for the price.",3
+10,"Fantastic! Exactly what I was looking for.",5
+11,"Poor build quality. Broke after just a few uses.",1
+12,"Decent product, but the instructions were confusing.",3
+13,"Outstanding performance and sleek design. Love it!",5
+14,"Mediocre at best. There are better options out there.",2
+15,"Great product, but shipping took longer than expected.",4
